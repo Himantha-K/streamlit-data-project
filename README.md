@@ -1,6 +1,8 @@
 Install these Python libraries by running this commands in your terminal:
 pip install streamlit pandas plotly openpyxl
+
 then,
+
 pip install statsmodels
 
 Save the app.py file on your pc
