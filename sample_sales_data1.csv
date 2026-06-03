@@ -1,0 +1,11 @@
+Date,Product,Category,Units Sold,Unit Price ($),Revenue ($),Region,Customer Satisfaction (1-5)
+2026-05-01,Laptop,Electronics,12,1200,14400,North,4.5
+2026-05-02,Smartphone,Electronics,25,800,20000,East,4.7
+2026-05-03,Tablet,Electronics,18,450,8100,West,4.2
+2026-05-04,Laptop,Electronics,15,1200,18000,South,4.6
+2026-05-05,Smartwatch,Accessories,30,250,7500,North,4.8
+2026-05-06,Smartphone,Electronics,22,800,17600,West,4.0
+2026-05-07,Tablet,Electronics,14,450,6300,East,4.3
+2026-05-08,Laptop,Electronics,10,1200,12000,South,4.4
+2026-05-09,Smartwatch,Accessories,35,250,8750,East,4.9
+2026-05-10,Smartphone,Electronics,28,800,22400,North,4.6
