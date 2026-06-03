@@ -1,0 +1,101 @@
+Date,Region,Product_Category,Marketing_Spend_USD,Discount_Percentage,Units_Sold,Average_Customer_Rating
+2026-01-01,North,Home & Kitchen,28.46,10,107,3.6
+2026-01-02,West,Home & Kitchen,22.88,5,103,3.5
+2026-01-03,East,Apparel,29.37,0,120,4.1
+2026-01-04,North,Home & Kitchen,38.41,0,138,4.7
+2026-01-05,North,Electronics,27.45,10,117,5.0
+2026-01-06,West,Electronics,26.78,10,121,3.7
+2026-01-07,South,Home & Kitchen,33.66,10,153,4.4
+2026-01-08,East,Home & Kitchen,37.3,10,145,4.1
+2026-01-09,West,Home & Kitchen,30.97,0,130,5.0
+2026-01-10,North,Office Supplies,39.9,5,149,4.8
+2026-01-11,North,Apparel,42.08,0,136,4.8
+2026-01-12,West,Apparel,35.71,5,139,4.2
+2026-01-13,East,Home & Kitchen,40.16,5,151,4.1
+2026-01-14,South,Apparel,18.15,15,120,3.9
+2026-01-15,South,Home & Kitchen,30.37,0,124,3.6
+2026-01-16,North,Home & Kitchen,35.59,0,142,4.8
+2026-01-17,East,Home & Kitchen,34.14,0,135,4.7
+2026-01-18,South,Electronics,46.67,10,155,5.0
+2026-01-19,East,Electronics,29.83,10,136,5.0
+2026-01-20,East,Electronics,27.79,0,127,4.3
+2026-01-21,North,Apparel,44.44,0,169,4.7
+2026-01-22,South,Electronics,40.44,10,142,4.9
+2026-01-23,West,Apparel,31.99,0,144,4.8
+2026-01-24,North,Apparel,33.61,15,120,3.9
+2026-01-25,South,Electronics,30.05,10,131,4.2
+2026-01-26,South,Apparel,26.44,0,138,3.7
+2026-01-27,South,Electronics,30.76,0,117,4.9
+2026-01-28,South,Electronics,37.47,20,138,4.4
+2026-01-29,South,Home & Kitchen,28.0,0,121,3.8
+2026-01-30,East,Electronics,31.61,0,124,4.5
+2026-01-31,North,Electronics,33.0,15,117,4.4
+2026-02-01,East,Apparel,40.93,20,153,4.0
+2026-02-02,West,Home & Kitchen,33.85,20,124,3.7
+2026-02-03,South,Electronics,21.31,10,108,4.5
+2026-02-04,North,Apparel,38.08,0,136,4.3
+2026-02-05,South,Electronics,15.8,0,105,4.7
+2026-02-06,North,Electronics,33.93,10,127,4.3
+2026-02-07,East,Apparel,19.69,5,96,4.8
+2026-02-08,North,Apparel,19.55,5,107,4.3
+2026-02-09,West,Apparel,37.72,20,132,4.3
+2026-02-10,West,Home & Kitchen,36.29,0,143,4.8
+2026-02-11,North,Office Supplies,29.97,5,138,4.1
+2026-02-12,North,Apparel,41.23,0,137,3.7
+2026-02-13,North,Electronics,34.46,5,138,3.5
+2026-02-14,North,Home & Kitchen,28.96,0,125,4.6
+2026-02-15,West,Electronics,33.27,0,141,4.4
+2026-02-16,South,Apparel,44.55,0,149,4.6
+2026-02-17,North,Electronics,56.08,10,177,3.8
+2026-02-18,North,Electronics,46.71,10,172,3.7
+2026-02-19,West,Office Supplies,36.81,5,145,3.5
+2026-02-20,West,Home & Kitchen,51.8,20,182,4.0
+2026-02-21,East,Apparel,49.41,0,177,4.4
+2026-02-22,North,Apparel,53.52,0,177,4.1
+2026-02-23,East,Electronics,59.87,15,202,4.2
+2026-02-24,West,Electronics,64.03,0,213,4.9
+2026-02-25,West,Electronics,69.26,20,216,4.0
+2026-02-26,South,Apparel,50.14,0,194,4.3
+2026-02-27,North,Home & Kitchen,60.5,20,206,4.7
+2026-02-28,East,Apparel,72.37,0,219,4.1
+2026-03-01,West,Electronics,70.17,15,232,4.4
+2026-03-02,West,Office Supplies,68.7,5,212,4.8
+2026-03-03,East,Home & Kitchen,64.45,20,219,4.9
+2026-03-04,South,Apparel,58.17,0,207,3.7
+2026-03-05,West,Apparel,66.08,5,207,4.9
+2026-03-06,North,Apparel,71.35,20,238,4.2
+2026-03-07,West,Electronics,76.75,5,246,3.9
+2026-03-08,North,Electronics,66.31,10,224,4.2
+2026-03-09,East,Home & Kitchen,68.41,10,240,5.0
+2026-03-10,North,Electronics,72.58,5,229,4.2
+2026-03-11,East,Electronics,68.21,10,213,4.0
+2026-03-12,North,Electronics,73.96,5,226,4.5
+2026-03-13,East,Electronics,80.06,20,242,3.9
+2026-03-14,North,Home & Kitchen,67.11,0,217,3.6
+2026-03-15,South,Home & Kitchen,73.84,0,238,3.7
+2026-03-16,North,Apparel,48.09,20,173,3.7
+2026-03-17,North,Electronics,65.89,15,223,3.7
+2026-03-18,South,Apparel,63.55,5,209,3.7
+2026-03-19,West,Apparel,54.59,10,201,4.5
+2026-03-20,West,Electronics,63.06,0,205,3.8
+2026-03-21,North,Apparel,37.92,0,172,4.0
+2026-03-22,South,Electronics,56.3,5,197,4.8
+2026-03-23,North,Apparel,65.43,0,205,4.2
+2026-03-24,East,Apparel,72.68,5,221,4.5
+2026-03-25,East,Electronics,54.47,0,191,3.8
+2026-03-26,North,Electronics,55.29,20,186,3.8
+2026-03-27,West,Apparel,53.54,20,191,3.6
+2026-03-28,West,Apparel,63.71,10,214,3.8
+2026-03-29,North,Home & Kitchen,62.69,5,206,3.9
+2026-03-30,North,Apparel,61.39,0,195,3.8
+2026-03-31,East,Electronics,71.26,15,213,3.6
+2026-04-01,West,Electronics,65.79,10,210,3.7
+2026-04-02,North,Apparel,66.97,0,226,4.2
+2026-04-03,East,Electronics,61.14,20,205,3.8
+2026-04-04,West,Apparel,70.98,15,215,4.0
+2026-04-05,South,Office Supplies,66.51,20,218,4.3
+2026-04-06,East,Apparel,61.26,10,207,4.5
+2026-04-07,West,Electronics,78.74,10,238,3.6
+2026-04-08,West,Apparel,76.59,5,243,4.7
+2026-04-09,East,Apparel,77.37,20,244,4.4
+2026-04-10,South,Apparel,82.97,15,246,3.6
